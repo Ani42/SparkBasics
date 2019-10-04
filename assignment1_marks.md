@@ -10,7 +10,7 @@ github:Anirudh42
 mark: 2/2
 
 **Question 2**
-mark: 4/6
+mark: 6/6
 
 **Question 3**
 mark: 1.5/2
@@ -18,6 +18,6 @@ mark: 1.5/2
 **feedback :** PMI values are off, two-token queries return wrong results
 
 **Final grade**
-mark: 7.5/10.0
+mark: 9.5/10.0
 
 summary: 20765080,vaakundy,Anirudh42,7.5/10.0
